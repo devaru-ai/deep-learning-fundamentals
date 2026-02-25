@@ -1,0 +1,1 @@
+# Implement the forward pass. You must accurately handle edge padding, strides, and ideally, implement the im2col transformation to show how convolutions are converted into efficient matrix multiplications.
